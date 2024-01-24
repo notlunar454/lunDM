@@ -1,0 +1,6 @@
+# place this file in /usr/share/xsessions
+[Desktop Entry]
+Name=lunDM
+Comment=WIP Desktop Manager inspired by macOS
+Exec=/bin/lundm
+Type=Application 
